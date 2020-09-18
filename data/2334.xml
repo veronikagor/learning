@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="11.0.4" class="java.beans.XMLDecoder">
+ <object class="blinovtask.bean.Order">
+  <void property="amount">
+   <double>6.0</double>
+  </void>
+  <void property="orderId">
+   <long>11</long>
+  </void>
+ </object>
+</java>
